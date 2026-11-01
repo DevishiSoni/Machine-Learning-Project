@@ -1,0 +1,47 @@
+group_label,pred,clean_text,pattern_notes
+ambiguous,neutral,Didn’t know he had his initials on his thigh pads too,
+ambiguous,neutral,Why would I do that?,
+ambiguous,neutral,woah this is a reversal of the norm you took a meme from instagram to reddit,
+ambiguous,positive,will love . I wonder what the deal will look like if it happens.,
+ambiguous,neutral,Unexpected Hail corporate.,
+ambiguous,negative,Seriously?,
+ambiguous,neutral,"Do you ever get extremely inspired at night, make plans and then wake up with no drive at all? Or is this just a general thing?",
+ambiguous,positive,Did the words get unbanned?!,
+ambiguous,neutral,"most conservatives have been pissed at cities in Minnesota raising the age to buy tobacco, I guess i'm a little confused on what you are talking about.",
+ambiguous,positive,Does that work for the WSJ? I haven’t read an article from there in a year.,
+ambiguous,neutral,Why do you keep going back the them? Why should care about hillbillies?,
+ambiguous,neutral,I'm surprised that this is still happening despite the threats of an invasion of manbij.,
+ambiguous,positive,"What happened? Did something set you off? THough sometimes we can have good days and bad days, don't let it offset the progress you've made",
+ambiguous,neutral,> That is going to get sooo confusing if he does join our division.,
+ambiguous,positive,Tf is a smartpass+?,
+negative,neutral,just wants to post pics of her facetuned of herself for attention while acting morally superior to those other girls. fuck off,
+negative,neutral,I punch them in the throat before they get the chance to speak.,
+negative,neutral,It's even worse when you get someone from NJ who has no clue how to drive in the city environment.,
+negative,neutral,You’re wrong. Source: I looked before I commented the first time.,
+negative,neutral,So this is how democracy dies... With thunderous upvotes.,
+negative,neutral,Just get him out of my sight I’m tired of losing and those who contribute to it,
+negative,neutral,Contractions is equivalent....body can only deal with...us women with labor.....I don’t like the way this person speaks.,
+negative,positive,And here I am thinking that the animation after surrender/Victory is annoying ;-;,
+negative,neutral,"I think that's just natural, humans weren't really intended to fly by nature so I guess it just feels wrong or something, idk",
+negative,neutral,Tbh I think there are a lot of parts of chicago that are way shittier than memphis,
+negative,positive,Anyone else think talks too much in this and drowns destiny and hbomb out My man be talkin,
+negative,neutral,That's literally impossible.,
+negative,neutral,you’re too lazy to google,
+negative,positive,I disagree. In that I believe that season 3 was also very good. I think it's better than season 4.,
+negative,neutral,My friends that were badly injured from the first fight. Read my backstory comment.,
+
+A1  no-cue, implicit-surprise          N1  profanity-missed, long
+A2  question, short                    N2  hyperbole, no-cue
+A3  interjection, no-cue               N3  complaint, no-cue
+A4  placeholder-artifact, misleading-positive   N4  disagreement, no-cue
+A5  short, possible-sarcasm            N5  sarcasm
+A6  question, short                    N6  implicit-frustration
+A7  question                           N7  negation
+A8  question, short                    N8  emoticon, cue-missed
+A9  explicit-cue-missed, long          N9  hedging, negation
+A10 question                           N10 slang-variant
+A11 question                           N11 placeholder-artifact
+A12 explicit-cue-missed                N12 short, no-cue, label-questionable
+A13 question, misleading-positive      N13 short, insult
+A14 explicit-cue-missed, quote-marker  N14 positive-words, label-questionable
+A15 question, short, slang             N15 implicit-negative, no-cue
